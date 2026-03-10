@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Sample reading question about climate migration.",
+    "options": ["A", "B", "C", "D"],
+    "correct": "A"
+  },
+  {
+    "question": "Sample reading question about workplace automation.",
+    "options": ["A", "B", "C", "D"],
+    "correct": "C"
+  },
+  {
+    "question": "Sample reading question about language learning habits.",
+    "options": ["A", "B", "C", "D"],
+    "correct": "B"
+  }
+]
